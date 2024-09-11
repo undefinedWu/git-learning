@@ -1,7 +1,5 @@
 console.log("revert one add one new commit")
-console.log("revert four add content")
+console.log("revert four add content revert_02 add some new contents")
 
 
-console.log("add new branch for merging request") // revert_one branch add one comment
-
-const s = 1;
+console.log("add new branch for merging request") // revert 3 wants produce the conflict
